@@ -29,7 +29,7 @@ Welcome to **BooksyBot** — an AI-powered book recommendation chatbot designed 
 
 ## 🚀 Live Demo
 
-🔗 [Click here to view BooksyBot live]([https://your-username.github.io/booksybot-chat/](https://github.com/PriyanshiChauhan209/BooksyBot.git))
+🔗 [Click here to view BooksyBot live]((https://github.com/PriyanshiChauhan209/BooksyBot.git))
 
 ---
 
