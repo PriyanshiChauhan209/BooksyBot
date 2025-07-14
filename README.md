@@ -39,14 +39,6 @@ Welcome to **BooksyBot** — an AI-powered book recommendation chatbot designed 
 - **IBM Watson Assistant** for NLP-based chatbot
 - **GitHub Pages** for deployment
 
----
-
-## 📁 Folder Structure
-booksybot-chat/
-├── index.html
-└── screenshots/
-├── landing-page.png
-└── chat-interface.png
 
 
 ---
@@ -54,10 +46,6 @@ booksybot-chat/
 ## 👩‍💻 Author
 
 Made with ❤️ by **Priyanshi Chauhan**
-
-> Let’s connect and build together!  
-> 🔗 [LinkedIn](https://www.linkedin.com/in/priyanshi-chauhan)  
-> 📧 Email: your.email@example.com
 
 ---
 
@@ -72,11 +60,7 @@ If you want to deploy this yourself:
 
 ---
 
-## 📜 License
 
-This project is licensed under the MIT License.
-
----
 
 ✨ *Discover. Read. Repeat.* ✨  
 
