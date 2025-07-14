@@ -27,11 +27,7 @@ Welcome to **BooksyBot** — an AI-powered book recommendation chatbot designed 
 
 ---
 
-## 🚀 Live Demo
 
-🔗 [Click here to view BooksyBot live]((https://github.com/PriyanshiChauhan209/BooksyBot.git))
-
----
 
 ## 🛠️ Tech Stack
 
